@@ -1,0 +1,3 @@
+[submodule "betabar"]
+	path = betabar
+	url = https://github.com/betanik/betabar.git
